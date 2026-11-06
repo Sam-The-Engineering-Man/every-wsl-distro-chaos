@@ -1,7 +1,7 @@
 # Overview
 Running one WSL distro is boring! So let's run ALL of them at the same time.  This repo includes some helper scripts and notes that I used in my video.  Feel free to use it for your own WSL experiments!
 
-Video: <>
+Video: [I Ran Every WSL Distro At Once. It Was Pure Chaos!](https://youtu.be/ZDgATfeiIo4)
 # Helpful Commands
 To install all the distro's (**NOTE**: These names are likely to change very quickly as distro's get updated use `wsl --list --online` for latest options):
 ```
